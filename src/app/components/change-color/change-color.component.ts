@@ -9,7 +9,7 @@ import { Component } from '@angular/core';
 export class ChangeColorComponent {
   isActive = true;
 
-  colors = ['red', 'green', 'yellow', 'blue', 'pink', 'ourole', 'gray']
+  colors = ['red', 'green', 'yellow', 'blue', 'pink', 'purple', 'gray']
 
   position = 0;
 
